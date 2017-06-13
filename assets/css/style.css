@@ -169,6 +169,25 @@ h2{
     margin: 5px;
 }
 
+.portfolioImgDiv{
+	display: inline-block;
+	padding: 20px;
+	position: relative;
+	left: 25px;
+}
+
+.imgTitle{
+	background-color: teal;
+    color: white;
+    text-align: center;
+    font-size: larger;
+    width: 190px;
+    padding: 30px;
+    position: absolute;
+    bottom: 50px;
+    z-index: 1;
+}
+
 #wrapper{
 	min-height: 100%;
 	margin-bottom: -100px;
